@@ -1,0 +1,22 @@
+{
+  "name": "weather-forecast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/al890129/weather-forecast-by-AngularJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/al890129/weather-forecast-by-AngularJS/issues"
+  },
+  "homepage": "https://github.com/al890129/weather-forecast-by-AngularJS#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
